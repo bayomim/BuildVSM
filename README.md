@@ -1,5 +1,12 @@
 A helper system for OntoSeg Algorithm: https://github.com/bayomim/OntoSeg
 
+Mostafa Bayomi, Killian Levacher, M.Rami Ghorab, Séamus Lawless,
+
+ADAPT Centre, Knowledge and Data Engineering Group,
+
+School of Computer Science and Statistics, Trinity College Dublin, Dublin, Ireland
+
+Contact person: bayomim -at- tcd.ie
 
 Please cite our paper if you publish material based on this code or dataset.
 
