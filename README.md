@@ -1,5 +1,7 @@
 A helper system for OntoSeg Algorithm: https://github.com/bayomim/OntoSeg
 
+OntoSeg: a Novel Approach to Text Segmentation using Ontological Similarity
+
 Mostafa Bayomi, Killian Levacher, M.Rami Ghorab, Séamus Lawless,
 
 ADAPT Centre, Knowledge and Data Engineering Group,
