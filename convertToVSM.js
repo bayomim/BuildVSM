@@ -57,7 +57,7 @@ var results;
  * The first parameter is the path to the directory where data exists. 
  * The method will walk through all sub-directories in the given path and load all files 
  */
-walk("data/haps/text/9",function (err, outResults) { 
+walk("path/to/textFiles/directory",function (err, outResults) { 
         if (err) {
          console.log("Error: "+err);
           throw err;
